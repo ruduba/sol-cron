@@ -11,7 +11,7 @@ now = datetime.datetime.now(datetime.timezone.utc)
 curr_azimuth = get_az(city.observer, now)
 curr_altitude = get_al(city.observer, now)
 
-x = (curr_azimuth/360) * 800
+x = (curr_azimuth/360) * 600
 y = 350 - (curr_altitude/90) * 300
 
 with open("template.svg", "r") as f:
