@@ -1,0 +1,16 @@
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="800" height="400" fill="#020617" />
+  
+
+  <line x1="0" y1="350" x2="800" y2="350" stroke="#1e293b" stroke-width="2" />
+  
+
+  <text x="380" y="395" fill="#64748b" font-size="12" font-family="monospace">HORIZON (0°)</text>
+  <text x="730" y="370" fill="#64748b" font-size="12" font-family="monospace">W (270°)</text>
+  <text x="390" y="370" fill="#64748b" font-size="12" font-family="monospace">S (180°)</text>
+  <text x="10" y="370" fill="#64748b" font-size="12" font-family="monospace">E (90°)</text>
+
+  <g id="analemma-points">
+  </g>
+</svg>
