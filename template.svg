@@ -12,5 +12,8 @@
   <text x="10" y="370" fill="#64748b" font-size="12" font-family="monospace">E (90°)</text>
 
   <g id="analemma-points">
+  <circle cx=" 639.71" cy="-4.30" r="2" fill="#fbbf24">
+ <title>May 04: 79.7deg alt</title>
+</circle>
   </g>
 </svg>
