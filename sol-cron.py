@@ -12,7 +12,7 @@ curr_azimuth = get_az(city.observer, now)
 curr_altitude = get_al(city.observer, now)
 
 x = (curr_azimuth/360) * 800
-y = 350 - (curr_altitude/90) * 400
+y = 350 - (curr_altitude/90) * 300
 
 with open("template.svg", "r") as f:
     lines = f.readlines()
