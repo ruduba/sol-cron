@@ -36,6 +36,6 @@ jobs:
               run: |
                 git config --global user.name "sol-cron-bot"
                 git config --global user.email "action@github.com"
-                git add templaate.svg
-                git commit -m "sol-cron: relogged sun position for $(date + '%d-%m-%Y')" || echo "no changes to commit"
+                git add template.svg
+                git commit -m "sol-cron: relogged sun position for $(date +'%d-%m-%Y')" || echo "no changes to commit"
                 git push
