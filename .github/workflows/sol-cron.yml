@@ -2,7 +2,7 @@ name: sol-cron daily update
 
 on:
     schedule:
-        - cron: '51 7 * * *'
+        - cron: '20 8 * * *'
     workflow_dispatch: 
 
 env:
