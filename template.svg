@@ -3,10 +3,6 @@
   <rect width="800" height="400" fill="#020617" />
   <text id="last-update" x="10" y="20" fill="#64748b" font-family="monospace">last update: May 04, 2026 | 02:37 PM IST</text>
 
-    last update: --
-
-    </text>
-
 
   <line x1="0" y1="350" x2="800" y2="350" stroke="#1e293b" stroke-width="2" />
 
