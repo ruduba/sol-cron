@@ -23,7 +23,7 @@ new_point+= f'</circle>\n'
 
 updated_lines = []
 for line in lines:
-    if'id = "last-update"' in line:
+    if'id="last-update"' in line:
         updated_lines.append(f'  <text id="last-update" x="10" y="20" fill="#64748b" font-family="monospace">last update: {date_str}</text>\n')
     elif"</g>" in line:
         updated_lines.append(new_point)
