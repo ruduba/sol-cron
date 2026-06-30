@@ -1,7 +1,7 @@
 <svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
 
   <rect width="800" height="400" fill="#020617" />
-  <text id="last-update" x="10" y="20" fill="#64748b" font-family="monospace">last update: Jun 29, 2026 | 06:14 PM IST</text>
+  <text id="last-update" x="10" y="20" fill="#64748b" font-family="monospace">last update: Jun 30, 2026 | 04:54 PM IST</text>
 
 
   <line x1="0" y1="350" x2="800" y2="350" stroke="#1e293b" stroke-width="2" />
@@ -193,6 +193,9 @@
 </circle>
   <circle cx=" 487.14" cy=" 326.38" r="2" fill="#fbbf24">
  <title>Jun 29, 2026 | 06:14 PM IST: 7.1deg alt</title>
+</circle>
+  <circle cx=" 482.82" cy=" 265.96" r="2" fill="#fbbf24">
+ <title>Jun 30, 2026 | 04:54 PM IST: 25.2deg alt</title>
 </circle>
   </g>
 </svg>
